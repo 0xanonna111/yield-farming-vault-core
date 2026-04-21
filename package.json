@@ -1,0 +1,8 @@
+{
+  "name": "yield-farming-vault-core",
+  "version": "1.0.0",
+  "description": "Auto-compounding yield vault with flat structure",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
